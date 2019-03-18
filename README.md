@@ -12,4 +12,4 @@
 - HTML + CSS
 - Jinja2
 
-Developed by _[Stepan Denisov]_(https://vk.com/sd.denisoff)
+Developed by [Stepan Denisov](https://vk.com/sd.denisoff)
