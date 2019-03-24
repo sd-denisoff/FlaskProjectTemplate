@@ -2,14 +2,14 @@
 
 > Tagline
 
-## Стек технологий
+## Technology stack
 
 #### Backend
-- Python
+- Python3
 - Flask + addons
 
 #### Frontend
-- HTML + CSS
+- HTML5 + CSS3
 - Jinja2
 
-Developed by [Stepan Denisov](https://vk.com/sd.denisoff "VK profile")
+Developed by [Stepan Denisov](https://vk.com/sd.denisoff 'VK profile')

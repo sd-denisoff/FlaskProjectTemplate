@@ -3,7 +3,6 @@ venv/
 
 # database
 database.db
-database.sqlite
 
 # errors file
 errors.txt
@@ -14,4 +13,5 @@ errors.txt
 # python files
 *.pyc
 
+# python cache
 __pycache__
