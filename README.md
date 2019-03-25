@@ -1,4 +1,4 @@
-# Project Template
+# Web Project Template
 
 > Tagline
 
