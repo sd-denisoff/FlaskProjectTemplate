@@ -1,7 +1,4 @@
-from peewee import *
-
-
-db = SqliteDatabase('database.db')
+from app.api.models import *
 
 
 class User(Model):

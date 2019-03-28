@@ -1,4 +1,4 @@
-from models import *
+from app.api.models.user import User
 
 
 User.drop_table()

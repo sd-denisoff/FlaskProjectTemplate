@@ -1,17 +1,9 @@
-<!DOCTYPE html>
+{% extends "base.html" %}
 
-<html lang="ru">
-    <head>
-        <meta charset="utf-8">
-        <title>Main Page</title>
-        <!-- build:css ~/dist/styles.min.css -->
-        <link href="../styles/style.css" rel="stylesheet">
-        <link href="../styles/style1.css" rel="stylesheet">
-        <!-- endbuild -->
-    </head>
-    <body>
-        <h1>Hello, world!</h1>
-        <script type="text/javascript" src="../scripts/index.js"></script>
-        <script type="text/javascript" src="../scripts/some.js"></script>
-    </body>
-</html>
+{% block head %}
+    <title>Index Page</title>
+{% endblock head %}
+
+{% block content %}
+    <h1>Hello, world!</h1>
+{% endblock content %}
