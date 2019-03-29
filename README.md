@@ -12,4 +12,4 @@
 - HTML5 + CSS3
 - Jinja2
 
-Developed by [Stepan Denisov](sd.denisoff@gmail.com 'E-mail')
+Developed by [Stepan Denisov](https://vk.com/sd.denisoff 'VK-profile')
