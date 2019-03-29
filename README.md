@@ -1,4 +1,4 @@
-# Web Project Template
+# Flask Project Template
 
 > Tagline
 
