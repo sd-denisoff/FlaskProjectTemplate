@@ -7,6 +7,7 @@
 #### Backend
 - Python3
 - Flask + addons
+- MVC pattern
 
 #### Frontend
 - HTML5 + CSS3
