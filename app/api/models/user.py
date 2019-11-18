@@ -2,7 +2,7 @@ from app.api.models import *
 
 
 class User(Model):
-    id = CharField(primary_key=True)
+    id = AutoField()
     name = TextField(null=True, default=None)
 
     class Meta:
