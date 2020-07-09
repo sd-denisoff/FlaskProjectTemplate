@@ -26,8 +26,8 @@ mail = Mail(application)
 
 def asynchronous(f):
     def wrapper(*args, **kwargs):
-        thr = Thread(target=f, args=args, kwargs=kwargs)
-        thr.start()
+        thread = Thread(target=f, args=args, kwargs=kwargs)
+        thread.start()
     return wrapper
 
 
