@@ -1,3 +1,14 @@
-Flask==1.0.2
-Flask-WTF==0.14.2
-peewee==3.1.0
+Flask
+Flask-Script
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-Login
+Flask-Mail
+Flask-WTF
+
+peewee
+psycopg2
+PyMySQL
+
+requests
+gunicorn
