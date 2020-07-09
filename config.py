@@ -34,4 +34,4 @@ SQLALCHEMY_DATABASE_URI = 'sqlite:////' + os.path.join(basedir, 'database.db')  
 
 # upload files config
 
-ALLOWED_EXTENSIONS = {}
+ALLOWED_EXTENSIONS = {}  # fill it
