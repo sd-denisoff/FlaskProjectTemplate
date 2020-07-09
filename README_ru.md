@@ -88,4 +88,4 @@
     python3 manage.py db_reset
     ```  
    
-Разработано [кем-то](https://exmaple.com 'hover comment')
+Разработано [кем-то](https://example.com 'hover comment')
