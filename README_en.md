@@ -88,4 +88,4 @@
     python3 manage.py db_reset
     ```  
 
-Developed by [](https://exmaple.com 'hover comment')
+Developed by [someone](https://exmaple.com 'hover comment')
