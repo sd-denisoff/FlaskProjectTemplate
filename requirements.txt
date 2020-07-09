@@ -6,7 +6,6 @@ Flask-Login
 Flask-Mail
 Flask-WTF
 
-peewee
 psycopg2
 PyMySQL
 
