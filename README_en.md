@@ -72,7 +72,7 @@
     python3 manage.py db downgrade <migration>
     ```  
    
-5. View Current Migration Information
+5. View current migration info
     ```
     python3 manage.py db current
     ```
