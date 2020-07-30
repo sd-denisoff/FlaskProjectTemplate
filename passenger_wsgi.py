@@ -12,7 +12,7 @@ if sys.executable != INTERP:
 sys.path.append(os.getcwd())
 
 
-application.config['DOMAIN'] = ''  # fill it
+application.config['HOST'] = ''  # fill it
 application.config['SQLALCHEMY_DATABASE_URI'] = ''.join(
     ['mysql+pymysql://', MYSQL_USERNAME, ':', MYSQL_PASSWORD, '@',
      SERVER_IP, ':', MYSQL_PORT, '/', MYSQL_DB_NAME])
