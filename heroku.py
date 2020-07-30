@@ -4,7 +4,7 @@ from manage import db_reset
 
 
 db_reset()
-application.config['DOMAIN'] = ''  # fill it
+application.config['HOST'] = ''  # fill it
 application.register_blueprint(routes.api, url_prefix='/')
 
 
