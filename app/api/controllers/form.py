@@ -9,7 +9,7 @@ class FormController(MethodView):
         if form.validate():
             return self.process(form)
         for error in list(form.errors.values()):
-            flash(error[0])
+            flash(error[0], 'error')
         return redirect(request.url)
 
     def get_form(self) -> FlaskForm:
