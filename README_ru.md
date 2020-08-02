@@ -2,11 +2,11 @@
 
 > [![](https://i.postimg.cc/7PQfGGH4/PPn-P-logo.png)](https://ppnp.me 'official team website')
 >
-> [![](https://img.shields.io/badge/PM%26BA-Pavel%20Krylov-lightgrey)](https://vk.com/pkryloff 'VK profile')
-> [![](https://img.shields.io/badge/UX%2FUI-Leonid%20Kravtsov-green)](https://vk.com/kravtsovjr 'VK profile')
-> [![](https://img.shields.io/badge/backend-Stepan%20Denisov-lightblue)](https://vk.com/sd.denisoff 'VK profile')
-> [![](https://img.shields.io/badge/frontend-Matvey%20Kottsov-orange)](https://vk.com/kottsovcom 'VK profile')
-> [![](https://img.shields.io/badge/DS%2FML-Denis%20Kozlov-blue)](https://vk.com/dkozl 'VK profile')
+> [![](https://img.shields.io/badge/PM%26BA-Павел%20Крылов-lightgrey)](https://vk.com/pkryloff 'VK profile')
+> [![](https://img.shields.io/badge/UX%2FUI-Леонид%20Кравцов-green)](https://vk.com/kravtsovjr 'VK profile')
+> [![](https://img.shields.io/badge/backend-Степан%20Денисов-lightblue)](https://vk.com/sd.denisoff 'VK profile')
+> [![](https://img.shields.io/badge/frontend-Матвей%20Котцов-orange)](https://vk.com/kottsovcom 'VK profile')
+> [![](https://img.shields.io/badge/DS%2FML-Денис%20Козлов-blue)](https://vk.com/dkozl 'VK profile')
 
 ## Стек технологий
 
