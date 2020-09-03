@@ -92,4 +92,4 @@
     python3 manage.py db_reset
     ```  
 
-Developed by [](https://example.com 'hover comment')
+Developed by [PPnP Team](https://ppnp.me 'official team website')
