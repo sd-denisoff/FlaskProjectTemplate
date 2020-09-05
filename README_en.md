@@ -47,7 +47,7 @@
 
 5. Launch web application
     ```
-    python3 runner.py
+    python3 manage.py runserver
     ```
    
 ## Useful commands
