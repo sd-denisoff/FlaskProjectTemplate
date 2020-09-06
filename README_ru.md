@@ -1,6 +1,6 @@
 # Шаблон проекта на Flask
 
-> [![](https://i.postimg.cc/7PQfGGH4/PPn-P-logo.png)](https://ppnp.me 'official team website')
+> [![](https://i.postimg.cc/7PQfGGH4/PPn-P-logo.png)](https://ppnp.me 'Официальный сайт команды')
 >
 > [![](https://img.shields.io/badge/PM%26BA-Павел%20Крылов-lightgrey)](https://vk.com/pkryloff 'VK profile')
 > [![](https://img.shields.io/badge/UX%2FUI-Леонид%20Кравцов-green)](https://vk.com/kravtsovjr 'VK profile')
@@ -17,6 +17,7 @@
 - MVC pattern
 
 #### Frontend
+- React
 - HTML5
 - CSS3
 - JS
