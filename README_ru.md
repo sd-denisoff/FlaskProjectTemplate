@@ -41,12 +41,7 @@
     pip3 install -r requirements.txt
     ```
 
-4. Создайте таблицы в БД
-    ```
-    python3 manage.py db_reset
-    ```
-
-5. Запустите веб-приложение
+4. Запустите веб-приложение
     ```
     python3 manage.py runserver
     ```
