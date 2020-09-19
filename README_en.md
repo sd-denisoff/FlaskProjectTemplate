@@ -41,11 +41,6 @@
     pip3 install -r requirements.txt
     ```
 
-4. Create tables in the database
-    ```
-    python3 manage.py db_reset
-    ```
-
 5. Launch web application
     ```
     python3 manage.py runserver
