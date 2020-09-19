@@ -7,6 +7,8 @@ from app.api import routes
 
 @manager.command
 def runserver():
+    if not os.path.exists('database.db'):
+        db_reset()
     application.config['HOST'] = 'localhost:5000/'
     application.register_blueprint(routes.api, url_prefix='/')
     application.run(host='localhost', port=5000, debug=True)
