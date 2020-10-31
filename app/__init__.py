@@ -1,4 +1,5 @@
 from flask import Flask
+from flask_cors import CORS
 from flask_script import Manager
 from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate, MigrateCommand
@@ -10,21 +11,8 @@ from threading import Thread
 application = Flask(__name__, template_folder='./templates', static_folder='./static')
 application.config.from_object('config')
 
-
-@application.errorhandler(403)
-def page_not_found(e):
-    return render_template('errors/403.html'), 403
-
-
-@application.errorhandler(404)
-def page_not_found(e):
-    return render_template('errors/404.html'), 404
-
-
-@application.errorhandler(500)
-def page_not_found(e):
-    return render_template('errors/500.html'), 500
-
+CORS(application, resources={r'/*': {'origins': 'http://localhost:3000'}})
+application.config['CORS_HEADERS'] = 'Content-Type'
 
 manager = Manager(application)
 
